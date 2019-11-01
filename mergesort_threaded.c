@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
-
+//Do not copy! 
 //prototypes
 void merge_sort(int *lr);   // l should be first index, r should be last index of sub array.     // so to sort call (0,n-1)
 void merge(int,int); //l,r,
